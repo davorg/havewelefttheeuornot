@@ -1,7 +1,7 @@
 @font-face {
 	font-family: 'SansThirteenBlack';
-	src: url('fonts/sansthirteenblack.eot');
-	src: local('☺'), url('fonts/sansthirteenblack.woff') format('woff'), url('fonts/sansthirteenblack.ttf') format('truetype'), url('fonts/sansthirteenblack.svg#webfont180qSKaW') format('svg');
+	src: url('/fonts/sansthirteenblack.eot');
+	src: local('☺'), url('/fonts/sansthirteenblack.woff') format('woff'), url('/fonts/sansthirteenblack.ttf') format('truetype'), url('/fonts/sansthirteenblack.svg#webfont180qSKaW') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
